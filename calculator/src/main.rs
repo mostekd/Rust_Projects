@@ -1,25 +1,62 @@
-use std::io::{self, Write};
+use eframe::egui;
 
 fn main() {
-    println!("Zaawansowany kalkulator Rust (obsługuje wyrażenia, np. 2 + 3 * (4 - 1) / 2)");
-    println!("Wpisz wyrażenie lub 'exit' aby zakończyć.");
-    loop {
-        print!("> ");
-        io::stdout().flush().unwrap();
-        let mut input = String::new();
-        io::stdin().read_line(&mut input).expect("Błąd odczytu");
-        let input = input.trim();
-        if input.eq_ignore_ascii_case("exit") {
-            println!("Do widzenia!");
-            break;
-        }
-        match eval_expr(input) {
-            Ok(result) => println!("Wynik: {}", result),
-            Err(e) => println!("Błąd: {}", e),
-        }
+    let native_options = eframe::NativeOptions::default();
+    eframe::run_native(
+        "Kalkulator GUI",
+        native_options,
+        Box::new(|_cc| Box::new(CalculatorApp::default())),
+    ).unwrap();
+}
+
+#[derive(Default)]
+struct CalculatorApp {
+    input: String,
+    result: String,
+}
+
+impl eframe::App for CalculatorApp {
+    fn update(&mut self, ctx: &egui::Context, _frame: &mut eframe::Frame) {
+        egui::CentralPanel::default().show(ctx, |ui| {
+            ui.heading("Zaawansowany kalkulator Rust");
+            ui.label("Wpisz wyrażenie matematyczne:");
+            ui.text_edit_singleline(&mut self.input);
+            ui.add_space(8.0);
+            egui::Grid::new("calc_grid").spacing([8.0, 8.0]).show(ui, |ui| {
+                let buttons = [
+                    ["7", "8", "9", "/", "("],
+                    ["4", "5", "6", "*", ")"],
+                    ["1", "2", "3", "-", "C"],
+                    ["0", ".", "+", "=", "<-"],
+                ];
+                for row in buttons.iter() {
+                    for &b in row.iter() {
+                        if ui.button(b).clicked() {
+                            match b {
+                                "C" => { self.input.clear(); self.result.clear(); },
+                                "<-" => { self.input.pop(); },
+                                "=" => {
+                                    match eval_expr(&self.input) {
+                                        Ok(val) => self.result = format!("Wynik: {}", val),
+                                        Err(e) => self.result = format!("Błąd: {}", e),
+                                    }
+                                },
+                                _ => self.input.push_str(b),
+                            }
+                        }
+                    }
+                    ui.end_row();
+                }
+            });
+            ui.add_space(8.0);
+            if !self.result.is_empty() {
+                ui.label(&self.result);
+            }
+        });
     }
 }
 
+// Funkcje eval_expr, tokenize, shunting_yard, eval_rpn:
 fn eval_expr(expr: &str) -> Result<f64, &'static str> {
     let tokens = tokenize(expr)?;
     let rpn = shunting_yard(&tokens)?;

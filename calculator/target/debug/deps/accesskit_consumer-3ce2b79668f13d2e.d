@@ -1,0 +1,10 @@
+/home/dawid/RustroverProjects/Rust_Projects/calculator/target/debug/deps/libaccesskit_consumer-3ce2b79668f13d2e.rmeta: /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.16.1/src/lib.rs /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.16.1/src/tree.rs /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.16.1/src/node.rs /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.16.1/src/filters.rs /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.16.1/src/iterators.rs /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.16.1/src/text.rs
+
+/home/dawid/RustroverProjects/Rust_Projects/calculator/target/debug/deps/accesskit_consumer-3ce2b79668f13d2e.d: /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.16.1/src/lib.rs /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.16.1/src/tree.rs /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.16.1/src/node.rs /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.16.1/src/filters.rs /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.16.1/src/iterators.rs /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.16.1/src/text.rs
+
+/home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.16.1/src/lib.rs:
+/home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.16.1/src/tree.rs:
+/home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.16.1/src/node.rs:
+/home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.16.1/src/filters.rs:
+/home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.16.1/src/iterators.rs:
+/home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.16.1/src/text.rs:

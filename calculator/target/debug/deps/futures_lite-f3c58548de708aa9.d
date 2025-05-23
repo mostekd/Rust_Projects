@@ -1,0 +1,9 @@
+/home/dawid/RustroverProjects/Rust_Projects/calculator/target/debug/deps/libfutures_lite-f3c58548de708aa9.rmeta: /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-1.13.0/src/lib.rs /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-1.13.0/src/future.rs /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-1.13.0/src/prelude.rs /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-1.13.0/src/stream.rs /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-1.13.0/src/io.rs
+
+/home/dawid/RustroverProjects/Rust_Projects/calculator/target/debug/deps/futures_lite-f3c58548de708aa9.d: /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-1.13.0/src/lib.rs /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-1.13.0/src/future.rs /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-1.13.0/src/prelude.rs /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-1.13.0/src/stream.rs /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-1.13.0/src/io.rs
+
+/home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-1.13.0/src/lib.rs:
+/home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-1.13.0/src/future.rs:
+/home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-1.13.0/src/prelude.rs:
+/home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-1.13.0/src/stream.rs:
+/home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-1.13.0/src/io.rs:
