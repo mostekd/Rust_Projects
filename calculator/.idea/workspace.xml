@@ -12,69 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2020e6a-11a3-433b-977b-4abae8ebb5ea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/debug/calculator" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/calculator" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/065s4oj7llcj2i3vbicrgmuai.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/08utwx3eg14rdd8la11nilmez.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/0abnym5vcfkljk2c243539j93.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/0honf32ue3glr25pkm2g61ifo.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/0i384hp2dyn21jagf7yqajjlq.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/0ix6b8f0t4mwhkgrh4zhlywlc.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/0mqt5xatxvwqu2x8pxyzikskc.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/0ohg82mirnx2lgsycxwogvba4.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/1h74kyvc90rvjsyjcjfg8jkpe.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/1kloavuldi4ir0vgzmbs545qd.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/1vqp8uhzxws0id5j5qsytoykt.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/1ya66x2v9sqyy4dwmfz4h42dd.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/29p85l01fqvqn3d6ragq1pwe4.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/2o4p1qthfw068w546ueks9nm7.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/3gwmzlcxaimy7uz2o7edf4cbl.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/3yyha6zeu2ruzf2xj9yvolfmv.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/45o90evhuf0t6jdoakfgfr2kd.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/48sfa3m59eb2avdyg4jifxyzx.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/4eyj6drxdjpf2l8f3zouwar0c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/4x6i5qe9za8zxkdrby0eumxqe.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/5586ryv0kcqf8k4rbfqbtm9mw.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/5m3mi0xjtp6v4qrfrwsfi6ouc.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/5xo8xqw3piauieopqb5t3wmqf.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/6mnpi1btmxdxf152l3qjvm3va.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/79qvc8z5znzb4gfafv4x2hup0.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/7koikx6v3kgqvxqm6vwi52o52.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/804pl80pjb3xbaxzksefn4mad.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/84w2ogab7l40x6x539totp6td.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/8eaem6ouiatkf4fc4vjoqamdz.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/8n9hgja7hpfxcoc7ameyot9h0.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/8ratpssxr8sn0xasnfxt056g8.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/97l2zpd7xri1xysl2gg2mgp4v.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/9bdb6zs3onc9gi1ihgfwdj83v.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/9k83koab2chinxs38fxqi9lqn.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/9nm4bcdbbaf3xh9g6z4j2zqwl.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/9q7aw8gwi0llur7d4351w0vik.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/a1iwgatod32wlen6mn2mcvmr4.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/a848su0svj3wnt8t1s4c7utnm.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/ak1ru6yzjjybds4mllf6e8ix8.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/ap9ayqcqzbh0ngqlgth3dbhs4.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/azunw4nyfzucs5q2cnsy5w60k.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/buhm711y36ig41anuvxch73yv.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/ctrinsr7rlvjmu2i652yj0gay.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/d3sw8d4n08ylp1wwwrol2qyi3.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/d553sthnpfs1uskizzmy1i974.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/d5t11qw96ysk1pqebpcdglodk.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/d8v6mx1i4p94nbrovmnjntiv4.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/dg3rcdhymwkr19tde27nf5d3h.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/e20m3l84r2oxlnontl09pc7zx.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/e9xj11q36nz2r5ybii8wa2s3n.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/eazd39o4a8tydkqw2df1a8etd.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/eqwisa6l6hlpbkaqpkdifig72.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/etiwlfvkjs0ryw4my7d0r7bph.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/evqs5ogv1pvpsn1qrmdeecmnt.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/evuhxz0b2sjwfp2f4e380vsys.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/f0qen3wg35p40pqekkxfjavu7.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9-bwqww9xx8y81dn1yxteu6khjg/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/calculator-2eltv8fi2kjun/s-h7lx0vx4cd-1vzszt9.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +43,7 @@
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/dawid/RustroverProjects/Rust_Projects/calculator",
+    "last_opened_file_path": "/home/dawid/RustroverProjects",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -164,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747984044506</updated>
       <workItem from="1747984046629" duration="9212000" />
-      <workItem from="1748248189814" duration="1175000" />
+      <workItem from="1748248189814" duration="2385000" />
     </task>
     <servers />
   </component>
