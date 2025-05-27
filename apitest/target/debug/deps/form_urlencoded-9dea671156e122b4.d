@@ -1,0 +1,7 @@
+/home/dawid/RustroverProjects/Rust_Projects/apitest/target/debug/deps/libform_urlencoded-9dea671156e122b4.rmeta: /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/form_urlencoded-1.2.1/src/lib.rs
+
+/home/dawid/RustroverProjects/Rust_Projects/apitest/target/debug/deps/libform_urlencoded-9dea671156e122b4.rlib: /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/form_urlencoded-1.2.1/src/lib.rs
+
+/home/dawid/RustroverProjects/Rust_Projects/apitest/target/debug/deps/form_urlencoded-9dea671156e122b4.d: /home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/form_urlencoded-1.2.1/src/lib.rs
+
+/home/dawid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/form_urlencoded-1.2.1/src/lib.rs:

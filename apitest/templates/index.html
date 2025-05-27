@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Messages</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Messages</h1>
+    <ul>
+    {% for msg in messages %}
+        <li>{{ msg.content }}</li>
+    {% endfor %}
+    </ul>
+</body>
+</html>
