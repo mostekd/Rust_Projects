@@ -5,11 +5,44 @@
     <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
+<div class="container">
     <h1>Messages</h1>
+    <form action="/messages" method="get" style="margin-bottom:1em;">
+        <input type="text" name="q" value="{{ query }}" placeholder="Szukaj...">
+        <button type="submit">Szukaj</button>
+    </form>
+    <form action="/messages/add" method="post" style="margin-bottom:1em; display:flex; gap:8px;">
+        <input type="text" name="content" placeholder="Nowa wiadomość" required style="flex:1;">
+        <button type="submit">Dodaj</button>
+    </form>
     <ul>
     {% for msg in messages %}
-        <li>{{ msg.content }}</li>
+        <li>
+            <form action="/messages/edit" method="post" style="display:inline;">
+                <input type="hidden" name="id" value="{{ msg.id }}">
+                <input type="text" name="content" value="{{ msg.content }}" required>
+                <button type="submit">Edytuj</button>
+            </form>
+            <form action="/messages/delete/{{ msg.id }}" method="post" style="display:inline;">
+                <button type="submit" onclick="return confirm('Na pewno usunąć?')">Usuń</button>
+            </form>
+        </li>
     {% endfor %}
     </ul>
+    <div class="pagination">
+        {% if page > 1 %}
+            <a href="/messages?page={{ page - 1 }}&sort={{ sort }}&q={{ query }}">&lt; Poprzednia</a>
+        {% endif %}
+        Strona {{ page }} z {{ total_pages }}
+        {% if page < total_pages %}
+            <a href="/messages?page={{ page + 1 }}&sort={{ sort }}&q={{ query }}">Następna &gt;</a>
+        {% endif %}
+    </div>
+    <div class="sortbar">
+        Sortuj:
+        <a href="/messages?sort=asc&q={{ query }}">rosnąco</a> |
+        <a href="/messages?sort=desc&q={{ query }}">malejąco</a>
+    </div>
+</div>
 </body>
 </html>

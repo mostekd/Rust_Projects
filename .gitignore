@@ -1,2 +1,3 @@
-calculator/target/debug/deps/calculator-fb80938dc7bfaab9
-calculator/target/debug/calculator
+/calculator/target
+/newproject/target
+/apitest/target
